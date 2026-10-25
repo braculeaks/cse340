@@ -1,0 +1,2 @@
+pngquant --quality=65-85 --force --output "1. Abstraction-small.png" "1. Abstraction.png"
+oxipng -o max "1. Abstraction-small.png"
